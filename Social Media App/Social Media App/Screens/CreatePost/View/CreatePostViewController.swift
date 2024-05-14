@@ -25,7 +25,7 @@ class CreatePostViewController: UIViewController {
     //MARK: - IBActions
     @IBAction func postBtnTapped(_ sender: Any) {
         if let user = appManager.getUser(), let text = postTextView.text, text != "" {
-            var post = Post(postId: 67, title: titleLabel.text, body: text, likes: 0, isLiked: false, comments: 5, user: user)
+            let post = Post(postId: 67, title: titleLabel.text, body: text, likes: 0, isLiked: false, comments: 5, user: user)
             createPost(post: post)
         }
     }

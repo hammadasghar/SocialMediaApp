@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		442FE2F12BF39DD600692D51 /* PostEndPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442FE2F02BF39DD600692D51 /* PostEndPoint.swift */; };
 		4474B2FC2BF1F37700C3056E /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4474B2FB2BF1F37700C3056E /* DashboardViewController.swift */; };
 		4474B3052BF1FB6400C3056E /* SocialPostsTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4474B3032BF1FB6400C3056E /* SocialPostsTVC.swift */; };
 		4474B3062BF1FB6400C3056E /* SocialPostsTVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4474B3042BF1FB6400C3056E /* SocialPostsTVC.xib */; };
@@ -21,7 +22,6 @@
 		4474B3202BF27D2E00C3056E /* CommentEndPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4474B31F2BF27D2E00C3056E /* CommentEndPoint.swift */; };
 		4474B3252BF2A30E00C3056E /* CreatePostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4474B3242BF2A30E00C3056E /* CreatePostViewController.swift */; };
 		44E893EC2BF32E04004B0CBB /* MBProgressHUD in Frameworks */ = {isa = PBXBuildFile; productRef = 44E893EB2BF32E04004B0CBB /* MBProgressHUD */; };
-		44E893EE2BF3323D004B0CBB /* PostEndPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E893ED2BF3323D004B0CBB /* PostEndPoint.swift */; };
 		44E893F02BF3343F004B0CBB /* PostViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E893EF2BF3343F004B0CBB /* PostViewModel.swift */; };
 		44E893F22BF34EA1004B0CBB /* StatusModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E893F12BF34EA1004B0CBB /* StatusModel.swift */; };
 		44E893F52BF36A98004B0CBB /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 44E893F42BF36A98004B0CBB /* IQKeyboardManagerSwift */; };
@@ -62,6 +62,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		442FE2F02BF39DD600692D51 /* PostEndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostEndPoint.swift; sourceTree = "<group>"; };
 		4474B2FB2BF1F37700C3056E /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
 		4474B3032BF1FB6400C3056E /* SocialPostsTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialPostsTVC.swift; sourceTree = "<group>"; };
 		4474B3042BF1FB6400C3056E /* SocialPostsTVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SocialPostsTVC.xib; sourceTree = "<group>"; };
@@ -75,7 +76,6 @@
 		4474B31D2BF279AD00C3056E /* CommentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentViewModel.swift; sourceTree = "<group>"; };
 		4474B31F2BF27D2E00C3056E /* CommentEndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentEndPoint.swift; sourceTree = "<group>"; };
 		4474B3242BF2A30E00C3056E /* CreatePostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePostViewController.swift; sourceTree = "<group>"; };
-		44E893ED2BF3323D004B0CBB /* PostEndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PostEndPoint.swift; path = ../../../../PostEndPoint.swift; sourceTree = "<group>"; };
 		44E893EF2BF3343F004B0CBB /* PostViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewModel.swift; sourceTree = "<group>"; };
 		44E893F12BF34EA1004B0CBB /* StatusModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusModel.swift; sourceTree = "<group>"; };
 		F307A6242BF1034400EFA6E2 /* Social Media App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Social Media App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -270,7 +270,7 @@
 				F307A6742BF1085900EFA6E2 /* EndPointType.swift */,
 				F307A6762BF1089B00EFA6E2 /* DashboardEndPoint.swift */,
 				4474B31F2BF27D2E00C3056E /* CommentEndPoint.swift */,
-				44E893ED2BF3323D004B0CBB /* PostEndPoint.swift */,
+				442FE2F02BF39DD600692D51 /* PostEndPoint.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -544,12 +544,12 @@
 				F307A6282BF1034400EFA6E2 /* AppDelegate.swift in Sources */,
 				F307A6622BF1046400EFA6E2 /* UIImage+Extension.swift in Sources */,
 				4474B30D2BF21B6600C3056E /* Constants.swift in Sources */,
-				44E893EE2BF3323D004B0CBB /* PostEndPoint.swift in Sources */,
 				F307A66C2BF1060200EFA6E2 /* User.swift in Sources */,
 				44E893F22BF34EA1004B0CBB /* StatusModel.swift in Sources */,
 				4474B31B2BF277DE00C3056E /* Comment.swift in Sources */,
 				F307A6602BF1045000EFA6E2 /* UIView+Extension.swift in Sources */,
 				4474B31E2BF279AD00C3056E /* CommentViewModel.swift in Sources */,
+				442FE2F12BF39DD600692D51 /* PostEndPoint.swift in Sources */,
 				4474B30B2BF21AC100C3056E /* AppManager.swift in Sources */,
 				4474B3172BF2644D00C3056E /* CommentTVC.swift in Sources */,
 				4474B3202BF27D2E00C3056E /* CommentEndPoint.swift in Sources */,
