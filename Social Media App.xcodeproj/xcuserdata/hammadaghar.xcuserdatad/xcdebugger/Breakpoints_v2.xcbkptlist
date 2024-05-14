@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "220304AC-1588-423A-A68E-0799976C1F22"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32B19570-A7E2-4C5D-BE3F-A16713DB69AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Social Media App/Screens/CreatePost/View/CreatePostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "observeEvent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32B19570-A7E2-4C5D-BE3F-A16713DB69AA - 4be999c8320059b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Social_Media_App.PostViewModel.Event) -&gt; () in Social_Media_App.CreatePostViewController.observeEvent() -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/CreatePost/View/CreatePostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "4460">
+               </Location>
+               <Location
+                  uuid = "32B19570-A7E2-4C5D-BE3F-A16713DB69AA - 4be999c8320059b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Social_Media_App.PostViewModel.Event) -&gt; () in Social_Media_App.CreatePostViewController.observeEvent() -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/CreatePost/View/CreatePostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "4345">
+               </Location>
+               <Location
+                  uuid = "32B19570-A7E2-4C5D-BE3F-A16713DB69AA - 4be999c8320059b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Social_Media_App.PostViewModel.Event) -&gt; () in Social_Media_App.CreatePostViewController.observeEvent() -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/CreatePost/View/CreatePostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "2163">
+               </Location>
+               <Location
+                  uuid = "32B19570-A7E2-4C5D-BE3F-A16713DB69AA - 4be999c8320059b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Social_Media_App.PostViewModel.Event) -&gt; () in Social_Media_App.CreatePostViewController.observeEvent() -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/CreatePost/View/CreatePostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "2175">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EC636F3-0F87-46DF-B68C-8D3AD3065D2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Social Media App/Screens/Comment/ViewModel/CommentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "addComment(comment:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Social Media App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "setContent(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911 - a9622591e9cb08c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social_Media_App.SocialPostsTVC.setContent(Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "422">
+               </Location>
+               <Location
+                  uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911 - a9622591e9cb08c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social_Media_App.SocialPostsTVC.setContent(Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "929">
+               </Location>
+               <Location
+                  uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911 - a9622591e9cb08c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social_Media_App.SocialPostsTVC.setContent(Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1109">
+               </Location>
+               <Location
+                  uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911 - a9622591e9cb08c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social_Media_App.SocialPostsTVC.setContent(Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1350">
+               </Location>
+               <Location
+                  uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911 - a9622591e9cb08c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social_Media_App.SocialPostsTVC.setContent(Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "518">
+               </Location>
+               <Location
+                  uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911 - a9622591e9cb08c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social_Media_App.SocialPostsTVC.setContent(Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911 - a9622591e9cb08c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social_Media_App.SocialPostsTVC.setContent(Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "168FD619-AD84-4241-811A-C2BAC4A3D911 - a9622591e9cb08c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Social_Media_App.SocialPostsTVC.setContent(Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Social Media App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hammadaghar/Documents/mvvm%20projects/Social%20Media%20App/Social%20Media%20App/Screens/Dashboard/View/Cells/SocialPostsTVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1457">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
